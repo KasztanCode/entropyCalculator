@@ -1,0 +1,1 @@
+let json = require('./words.json');
