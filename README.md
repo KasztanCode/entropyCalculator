@@ -1,1 +1,1 @@
-# entropyCalcualtor
+# very unoptimized entropyCalcualtor
